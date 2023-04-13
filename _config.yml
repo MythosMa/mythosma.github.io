@@ -3,12 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: MythosMa
+subtitle: MythosMa 的个人小博客
+description: 记录一下一个渺小的程序猿的一切
+keywords: cocos creator, cocos2d-x, React, Vue, C++, JavScript, 游戏开发
+author: Mythos Ma
+language: zh-CN
 timezone: ''
 
 # URL
@@ -97,7 +97,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
