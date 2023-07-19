@@ -3,11 +3,11 @@
   <title>MythosMa</title>
   
   <subtitle>MythosMa 的个人小博客</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/MythosMa/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/MythosMa/"/>
   <updated>2023-07-19T04:26:21.961Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/MythosMa/</id>
   
   <author>
     <name>Mythos Ma</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>express-postgresql-study</title>
-    <link href="http://example.com/2023/07/19/express-postgresql-study/"/>
-    <id>http://example.com/2023/07/19/express-postgresql-study/</id>
+    <link href="https://github.com/MythosMa/2023/07/19/express-postgresql-study/"/>
+    <id>https://github.com/MythosMa/2023/07/19/express-postgresql-study/</id>
     <published>2023-07-19T04:25:44.000Z</published>
     <updated>2023-07-19T04:26:21.961Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="学习笔记" scheme="http://example.com/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    <category term="学习笔记" scheme="https://github.com/MythosMa/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="express postgresql" scheme="http://example.com/tags/express-postgresql/"/>
+    <category term="express postgresql" scheme="https://github.com/MythosMa/tags/express-postgresql/"/>
     
   </entry>
   
   <entry>
     <title>开始了</title>
-    <link href="http://example.com/2023/04/13/hello-github-blog/"/>
-    <id>http://example.com/2023/04/13/hello-github-blog/</id>
+    <link href="https://github.com/MythosMa/2023/04/13/hello-github-blog/"/>
+    <id>https://github.com/MythosMa/2023/04/13/hello-github-blog/</id>
     <published>2023-04-13T13:42:36.000Z</published>
     <updated>2023-07-19T04:30:10.417Z</updated>
     
@@ -58,10 +58,10 @@
     
     
     
-    <category term="非技术文章" scheme="http://example.com/categories/%E9%9D%9E%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    <category term="非技术文章" scheme="https://github.com/MythosMa/categories/%E9%9D%9E%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
     
     
-    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    <category term="随笔" scheme="https://github.com/MythosMa/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
