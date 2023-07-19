@@ -1,9 +1,13 @@
 ---
-title: EXPRESS + POSTGRESQL 学习笔记
-date: 2023-04-13 21:42:36
-tags: express postgresql
-categories: 学习笔记
+title: EXPRESS + POSTGRESQL 学习文档
+date: 2023-07-19 12:25:44
+tags: 
+- express 
+- postgresql
+categories: 
+- 学习笔记
 ---
+
 # EXPRESS + POSTGRESQL 学习文档
 
 ## 认识工具
